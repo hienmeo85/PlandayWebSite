@@ -12,7 +12,7 @@ The Selenium script performs the following actions and checks, before outputting
 
 4) Now populate the fields with the following data
 
-    Email - “martinjosephbakewell+” +(RandomNumber) + ”@gmail.com” - make sure the email address that was used is output with the results
+    Email - “hienvtt85+” +(RandomNumber) + ”@gmail.com” - make sure the email address that was used is output with the results
 
     Name - "Test Please Ignore"
 
